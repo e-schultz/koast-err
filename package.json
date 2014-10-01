@@ -1,0 +1,27 @@
+{
+  "name": "koast-err",
+  "version": "1.0.0",
+  "description": "sample koast app",
+  "main": "index.js",
+  "dependencies": {
+    "koast-en": "^0.4.2",
+    "koast": "^0.4.2",
+    "confit": "^1.2.0",
+    "express": "^4.9.5",
+    "path": "^0.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-schultz/koast-err.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-schultz/koast-err/issues"
+  },
+  "homepage": "https://github.com/e-schultz/koast-err"
+}
